@@ -1,0 +1,22 @@
+{
+    "name": "w3css",
+    "displayName": "w3css",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "icon/w3css.jpg",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "Suvam",
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

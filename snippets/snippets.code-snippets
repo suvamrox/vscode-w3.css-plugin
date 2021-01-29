@@ -1,0 +1,1637 @@
+{
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	},
+	"Red": {
+		"prefix": "w3-red",
+		"body": [
+			"w3-red"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Pink": {
+		"prefix": "w3-pink",
+		"body": [
+			"w3-pink"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Purple": {
+		"prefix": "w3-purple",
+		"body": [
+			"w3-purple"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Deep Purple": {
+		"prefix": "w3-deep-purple",
+		"body": [
+			"w3-deep-purple"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Indigo": {
+		"prefix": "w3-indigo",
+		"body": [
+			"w3-indigo"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Blue": {
+		"prefix": "w3-blue",
+		"body": [
+			"w3-blue"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Light Blue": {
+		"prefix": "w3-light-blue",
+		"body": [
+			"w3-light-blue"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Cyan": {
+		"prefix": "w3-cyan",
+		"body": [
+			"w3-cyan"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Aqua": {
+		"prefix": "w3-aqua",
+		"body": [
+			"w3-aqua"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Teal": {
+		"prefix": "w3-teal",
+		"body": [
+			"w3-teal"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Green": {
+		"prefix": "w3-green",
+		"body": [
+			"w3-green"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Light Green": {
+		"prefix": "w3-light-green",
+		"body": [
+			"w3-light-green"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Lime": {
+		"prefix": "w3-lime",
+		"body": [
+			"w3-lime"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Sand": {
+		"prefix": "w3-sand",
+		"body": [
+			"w3-sand"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Khaki": {
+		"prefix": "w3-khaki",
+		"body": [
+			"w3-khaki"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Yellow": {
+		"prefix": "w3-yellow",
+		"body": [
+			"w3-yellow"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Amber": {
+		"prefix": "w3-amber",
+		"body": [
+			"w3-amber"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Orange": {
+		"prefix": "w3-orange",
+		"body": [
+			"w3-orange"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Deep Orange": {
+		"prefix": "w3-deep-orange",
+		"body": [
+			"w3-deep-orange"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Blue Grey": {
+		"prefix": "w3-blue-grey",
+		"body": [
+			"w3-blue-grey"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Brown": {
+		"prefix": "w3-brown",
+		"body": [
+			"w3-brown"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Light Grey": {
+		"prefix": "w3-light-grey",
+		"body": [
+			"w3-light-grey"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Grey": {
+		"prefix": "w3-grey",
+		"body": [
+			"w3-grey"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Dark Grey": {
+		"prefix": "w3-dark-grey",
+		"body": [
+			"w3-dark-grey"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Pale Red": {
+		"prefix": "w3-pale-red",
+		"body": [
+			"w3-pale-red"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Pale Yellow": {
+		"prefix": "w3-pale-yellow",
+		"body": [
+			"w3-pale-yellow"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Pale Green": {
+		"prefix": "w3-pale-green",
+		"body": [
+			"w3-pale-green"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"Pale Blue": {
+		"prefix": "w3-pale-blue",
+		"body": [
+			"w3-pale-blue"
+		],
+		"description": "The w3-color and w3-text-color classes can be used to color any HTML element"
+	},
+	"HTML container with 16px left and right padding": {
+		"prefix": "w3-container",
+		"body": [
+			"w3-container"
+		],
+		"description": "HTML container with 16px left and right padding"
+	},
+	"HTML container with 16px left and right padding and 16px top and bottom margin": {
+		"prefix": "w3-panel",
+		"body": [
+			"w3-panel"
+		],
+		"description": "HTML container with 16px left and right padding and 16px top and bottom margin"
+	},
+	"Circular badge": {
+		"prefix": "w3-badge",
+		"body": [
+			"w3-badge"
+		],
+		"description": "Circular badge"
+	},
+	"Rectangular tag": {
+		"prefix": "w3-tag",
+		"body": [
+			"w3-tag"
+		],
+		"description": "Circular badge"
+	},
+	"Unordered list": {
+		"prefix": "w3-ul",
+		"body": [
+			"w3-ul"
+		],
+		"description": "Circular badge"
+	},
+	"Container for w3-display-classes (enables positioning of elements inside the container)": {
+		"prefix": "w3-display-container",
+		"body": [
+			"<div class = \"w3-display-container w3-green\"style = \"height:300px;\" >",
+			"<div class = \"w3-display-topleft\" > Top Left </div>",
+			"<div class = \"w3-display-topright\" > Top Right </div>",
+			"<div class = \"w3-display-bottomleft\" > Bottom Left </div>",
+			"<div class = \"w3-display-bottomright\" > Bottom Right </div>",
+			"<div class = \"w3-display-left\" > Left </div>",
+			"<div class = \"w3-display-right\" > Right </div>",
+			"<div class = \"w3-display-middle\" > Middle </div>",
+			"<div class = \"w3-display-topmiddle\" > Top Mid </div>",
+			"<div class = \"w3-display-bottommiddle\" > Bottom Mid </div>",
+			"</div>"
+		],
+		"description": "Container for w3-display-classes (enables positioning of elements inside the container)"
+	},
+	"Class that can be used to define a full width for any element": {
+		"prefix": "w3-block",
+		"body": [
+			"w3-block"
+		],
+		"description": "Class that can be used to define a full width for any element"
+	},
+	"Code container": {
+		"prefix": "w3-code",
+		"body": [
+			"w3-code"
+		],
+		"description": "Code container"
+	},
+	"Inline code container (for code snippets)": {
+		"prefix": "w3-codespan",
+		"body": [
+			"w3-codespan"
+		],
+		"description": "Inline code container (for code snippets)"
+	},
+	"Container for fixed size centered content": {
+		"prefix": "w3-content",
+		"body": [
+			"w3-content"
+		],
+		"description": "Container for fixed size centered content"
+	},
+	"Container for responsive size centered content": {
+		"prefix": "w3-auto",
+		"body": [
+			"w3-auto"
+		],
+		"description": "Container for responsive size centered content"
+	},
+	"Class that removes right and left margins (especially useful for stretching padded rows (w3-row-padding))": {
+		"prefix": "w3-stretch",
+		"body": [
+			"w3-stretch"
+		],
+		"description": "Class that removes right and left margins (especially useful for stretching padded rows (w3-row-padding))"
+	},
+	"Container for an HTML table": {
+		"prefix": "w3-table",
+		"body": [
+			"w3-table"
+		],
+		"description": "Container for an HTML table"
+	},
+	"Striped table": {
+		"prefix": "w3-striped",
+		"body": [
+			"w3-striped"
+		],
+		"description": "Striped table"
+	},
+	"Bordered table": {
+		"prefix": "w3-border",
+		"body": [
+			"w3-border"
+		],
+		"description": "Bordered table"
+	},
+	"Bordered lines": {
+		"prefix": "w3-bordered",
+		"body": [
+			"w3-bordered"
+		],
+		"description": "Bordered lines"
+	},
+	"Centered table": {
+		"prefix": "w3-centered",
+		"body": [
+			"w3-centered"
+		],
+		"description": "Centered table"
+	},
+	"Hoverable table": {
+		"prefix": "w3-hoverable",
+		"body": [
+			"w3-hoverable"
+		],
+		"description": "Hoverable table"
+	},
+	"All properties set": {
+		"prefix": "w3-table-all",
+		"body": [
+			"w3-table-all"
+		],
+		"description": "All properties set"
+	},
+	"Creates a responsive table": {
+		"prefix": "w3-responsive",
+		"body": [
+			"w3-responsive"
+		],
+		"description": "Creates a responsive table"
+	},
+	"Same as w3-card-2": {
+		"prefix": "w3-card",
+		"body": [
+			"w3-card"
+		],
+		"description": "Same as w3-card-2"
+	},
+	"Container for any HTML content (2px bordered shadow)": {
+		"prefix": "w3-card-2",
+		"body": [
+			"w3-card-2"
+		],
+		"description": "Container for any HTML content (2px bordered shadow)"
+	},
+	"Container for any HTML content (4px bordered shadow)": {
+		"prefix": "w3-card-4",
+		"body": [
+			"w3-card-4"
+		],
+		"description": "Container for any HTML content (4px bordered shadow)"
+	},
+	"Container for one row of fluid responsive content": {
+		"prefix": "w3-row",
+		"body": [
+			"w3-row"
+		],
+		"description": "Container for one row of fluid responsive content"
+	},
+	"Row where all columns have a default padding": {
+		"prefix": "w3-row-padding",
+		"body": [
+			"w3-row-padding"
+		],
+		"description": "Row where all columns have a default padding"
+	},
+	"Class that removes right and left margins": {
+		"prefix": "w3-stretch",
+		"body": [
+			"w3-stretch"
+		],
+		"description": "Class that removes right and left margins"
+	},
+	"Half (1/2) screen column container": {
+		"prefix": "w3-half",
+		"body": [
+			"w3-half"
+		],
+		"description": "Half (1/2) screen column container"
+	},
+	"Third (1/3) screen column container": {
+		"prefix": "w3-third",
+		"body": [
+			"w3-third"
+		],
+		"description": "Third (1/3) screen column container"
+	},
+	"Two third (2/3) screen column container": {
+		"prefix": "w3-twothird",
+		"body": [
+			"w3-twothird"
+		],
+		"description": "Two third (2/3) screen column container"
+	},
+	"Quarter (1/4) screen column container": {
+		"prefix": "w3-quarter",
+		"body": [
+			"w3-quarter"
+		],
+		"description": "Quarter (1/4) screen column container"
+	},
+	"Three quarters (3/4) screen column container": {
+		"prefix": "w3-threequarter",
+		"body": [
+			"w3-threequarter"
+		],
+		"description": "Three quarters (3/4) screen column container"
+	},
+	"Column container for any HTML content": {
+		"prefix": "w3-col",
+		"body": [
+			"w3-col"
+		],
+		"description": "Column container for any HTML content"
+	},
+	"Occupies the rest of the column width": {
+		"prefix": "w3-rest",
+		"body": [
+			"w3-rest"
+		],
+		"description": "Occupies the rest of the column width"
+	},
+	"Hide content on small screens (less than 601px)": {
+		"prefix": "w3-hide-small",
+		"body": [
+			"w3-hide-small"
+		],
+		"description": "Hide content on small screens (less than 601px)"
+	},
+	"Hide content on medium screens": {
+		"prefix": "w3-hide-medium",
+		"body": [
+			"w3-hide-medium"
+		],
+		"description": "Hide content on medium screens"
+	},
+	"Hide content on large screens (larger than 992px)": {
+		"prefix": "w3-hide-large",
+		"body": [
+			"w3-hide-large"
+		],
+		"description": "Hide content on large screens (larger than 992px)"
+	},
+	"Responsive image": {
+		"prefix": "w3-image",
+		"body": [
+			"w3-image"
+		],
+		"description": "Responsive image"
+	},
+	"Adds mobile-first responsiveness to any element.Displays elements as block elements on mobile devices.": {
+		"prefix": "w3-mobile",
+		"body": [
+			"w3-mobile"
+		],
+		"description": "Adds mobile-first responsiveness to any element.Displays elements as block elements on mobile devices."
+	},
+	"Container for layout columns (cells).": {
+		"prefix": "w3-cell-row",
+		"body": [
+			"w3-cell-row"
+		],
+		"description": "Container for layout columns (cells)."
+	},
+	"Layout column (cell).": {
+		"prefix": "w3-cell",
+		"body": [
+			"w3-cell"
+		],
+		"description": "Layout column (cell)."
+	},
+	"Aligns content at the top of a column (cell).": {
+		"prefix": "w3-cell-top",
+		"body": [
+			"w3-cell-top"
+		],
+		"description": "Aligns content at the top of a column (cell)."
+	},
+	"Aligns content at the vertical middle of a column (cell).": {
+		"prefix": "w3-cell-middle",
+		"body": [
+			"w3-cell-middle"
+		],
+		"description": "Aligns content at the top of a column (cell)."
+	},
+	"Aligns content at the bottom of a column (cell).": {
+		"prefix": "w3-cell-bottom",
+		"body": [
+			"w3-cell-bottom"
+		],
+		"description": "Aligns content at the top of a column (cell)."
+	},
+	"Horizontal bar.": {
+		"prefix": "w3-bar",
+		"body": [
+			"w3-bar"
+		],
+		"description": "Horizontal bar."
+	},
+	"Vertical bar.": {
+		"prefix": "w3-bar-block",
+		"body": [
+			"w3-bar-block"
+		],
+		"description": "Vertical bar."
+	},
+	"Provides common style for bar items.": {
+		"prefix": "w3-bar-item",
+		"body": [
+			"w3-bar-item"
+		],
+		"description": "Provides common style for bar items."
+	},
+	"Side bar.": {
+		"prefix": "w3-sidebar",
+		"body": [
+			"w3-sidebar"
+		],
+		"description": "Side bar."
+	},
+	"Used together with w3-sidebar to create a fully automatic responsive side navigation. For this class to work, the page content must be within a 'w3 - main' class": {
+		"prefix": "w3-collapse",
+		"body": [
+			"w3-collapse"
+		],
+		"description": "Used together with w3-sidebar to create a fully automatic responsive side navigation. For this class to work, the page content must be within a 'w3 - main' class."
+	},
+	"Container for page content when using the w3-collapse class for responsive side navigations": {
+		"prefix": "w3-main",
+		"body": [
+			"w3-main"
+		],
+		"description": "Container for page content when using the w3-collapse class for responsive side navigations."
+	},
+	"Clickable dropdown element": {
+		"prefix": "w3-dropdown-click",
+		"body": [
+			"w3-dropdown-click"
+		],
+		"description": "Clickable dropdown element."
+	},
+	"Hoverable dropdown element": {
+		"prefix": "w3-dropdown-hover",
+		"body": [
+			"w3-dropdown-hover"
+		],
+		"description": "Hoverable dropdown element."
+	},
+	"Rectangular button with grey background color on hover": {
+		"prefix": "w3-button",
+		"body": [
+			"w3-button"
+		],
+		"description": "Hoverable dropdown element."
+	},
+	"Rectangular button with shadows on hover": {
+		"prefix": "w3-btn",
+		"body": [
+			"w3-btn"
+		],
+		"description": "Rectangular button with shadows on hover"
+	},
+	"Can be used to create a circular button": {
+		"prefix": "w3-circle",
+		"body": [
+			"w3-circle"
+		],
+		"description": "Can be used to create a circular button"
+	},
+	"Rectangular button with ripple effect": {
+		"prefix": "w3-ripple",
+		"body": [
+			"w3-ripple"
+		],
+		"description": "Rectangular button with ripple effect"
+	},
+	"Can be used to group elements (like buttons) in an horizontal bar": {
+		"prefix": "w3-bar",
+		"body": [
+			"w3-bar"
+		],
+		"description": "Can be used to group elements (like buttons) in an horizontal bar"
+	},
+	"Class that can be used to define a full width w3-button": {
+		"prefix": "w3-block",
+		"body": [
+			"w3-block"
+		],
+		"description": "Class that can be used to define a full width w3-button"
+	},
+	"Input elements": {
+		"prefix": "w3-input",
+		"body": [
+			"w3-input"
+		],
+		"description": "Input elements"
+	},
+	"Checkbox input type": {
+		"prefix": "w3-check",
+		"body": [
+			"w3-check"
+		],
+		"description": "Checkbox input type"
+	},
+	"Radio input type": {
+		"prefix": "w3-radio",
+		"body": [
+			"w3-radio"
+		],
+		"description": "Radio input type"
+	},
+	"Input select element": {
+		"prefix": "w3-select",
+		"body": [
+			"w3-select"
+		],
+		"description": "Input select element"
+	},
+	"Animates the width of an input to 100%": {
+		"prefix": "w3-animate-input",
+		"body": [
+			"w3-animate-input"
+		],
+		"description": "Animates the width of an input to 100%"
+	},
+	"Modal container": {
+		"prefix": "w3-modal",
+		"body": [
+			"w3-modal"
+		],
+		"description": "Modal container"
+	},
+	"Modal pop-up element": {
+		"prefix": "w3-modal-content",
+		"body": [
+			"w3-modal-content"
+		],
+		"description": "Modal pop-up element"
+	},
+	"Tooltip element": {
+		"prefix": "w3-tooltip",
+		"body": [
+			"w3-tooltip"
+		],
+		"description": "Tooltip element"
+	},
+	"Tooltip text": {
+		"prefix": "w3-text",
+		"body": [
+			"w3-text"
+		],
+		"description": "Tooltip text"
+	},
+	"Animates an element from the top -300px to 0px": {
+		"prefix": "w3-animate-top",
+		"body": [
+			"w3-animate-top"
+		],
+		"description": "Animates an element from the top -300px to 0px"
+	},
+	"Animates an element from left -300px to 0px": {
+		"prefix": "w3-animate-left",
+		"body": [
+			"w3-animate-left"
+		],
+		"description": "Animates an element from left -300px to 0px"
+	},
+	"Animates an element from the bottom -300px to 0px": {
+		"prefix": "w3-animate-bottom",
+		"body": [
+			"w3-animate-bottom"
+		],
+		"description": "Animates an element from the bottom -300px to 0px"
+	},
+	"Animates an element from right -300px to 0px": {
+		"prefix": "w3-animate-right",
+		"body": [
+			"w3-animate-right"
+		],
+		"description": "Animates an element from right -300px to 0px"
+	},
+	"Animates an element's opacity from 0 to 1": {
+		"prefix": "w3-animate-opacity",
+		"body": [
+			"w3-animate-opacity"
+		],
+		"description": "Animates an element's opacity from 0 to 1"
+	},
+	"Animates an element from 0 to 100% in size": {
+		"prefix": "w3-animate-zoom",
+		"body": [
+			"w3-animate-zoom"
+		],
+		"description": "Animates an element from 0 to 100% in size"
+	},
+	"Animates an element's opacity from 0 to 1 and 1 to 0 (fades in AND out)": {
+		"prefix": "w3-animate-fading",
+		"body": [
+			"w3-animate-fading"
+		],
+		"description": "Animates an element's opacity from 0 to 1 and 1 to 0 (fades in AND out)"
+	},
+	"Spin an icon 360 degrees": {
+		"prefix": "w3-spin",
+		"body": [
+			"w3-spin"
+		],
+		"description": "Spin an icon 360 degrees"
+	},
+	"Animates the width of an input field to 100%": {
+		"prefix": "w3-animate-input",
+		"body": [
+			"w3-animate-input"
+		],
+		"description": "Animates the width of an input field to 100%"
+	},
+	"Specifies a font size of 10 pixels": {
+		"prefix": "w3-tiny",
+		"body": [
+			"w3-tiny"
+		],
+		"description": "Specifies a font size of 10 pixels"
+	},
+	"Specifies a font size of 12 pixels": {
+		"prefix": "w3-small",
+		"body": [
+			"w3-small"
+		],
+		"description": "Specifies a font size of 12 pixels"
+	},
+	"Specifies a font size of 18 pixels": {
+		"prefix": "w3-large",
+		"body": [
+			"w3-large"
+		],
+		"description": "Specifies a font size of 18 pixels"
+	},
+	"Specifies a font size of 24 pixels": {
+		"prefix": "w3-xlarge",
+		"body": [
+			"w3-xlarge"
+		],
+		"description": "Specifies a font size of 24 pixels"
+	},
+	"Specifies a font size of 32 pixels": {
+		"prefix": "w3-xxlarge",
+		"body": [
+			"w3-xxlarge"
+		],
+		"description": "Specifies a font size of 32 pixels"
+	},
+	"Specifies a font size of 48 pixels": {
+		"prefix": "w3-xxxlarge",
+		"body": [
+			"w3-xxxlarge"
+		],
+		"description": "Specifies a font size of 48 pixels"
+	},
+	"Specifies a font size of 64 pixels": {
+		"prefix": "w3-jumbo",
+		"body": [
+			"w3-jumbo"
+		],
+		"description": "Specifies a font size of 64 pixels"
+	},
+	"Specifies a wider text": {
+		"prefix": "w3-wide",
+		"body": [
+			"w3-wide"
+		],
+		"description": "Specifies a wider text"
+	},
+	"Changes the font to serif": {
+		"prefix": "w3-serif",
+		"body": [
+			"w3-serif"
+		],
+		"description": "Changes the font to serif"
+	},
+	"Changes the font to sans-serif": {
+		"prefix": "w3-sans-serif",
+		"body": [
+			"w3-sans-serif"
+		],
+		"description": "Changes the font to sans-serif"
+	},
+	"Changes the font to cursive": {
+		"prefix": "w3-cursive",
+		"body": [
+			"w3-cursive"
+		],
+		"description": "Changes the font to cursive"
+	},
+	"Changes the font to monospacee": {
+		"prefix": "w3-monospace",
+		"body": [
+			"w3-monospace"
+		],
+		"description": "Changes the font to monospace"
+	},
+	"Centered content": {
+		"prefix": "w3-center",
+		"body": [
+			"w3-center"
+		],
+		"description": "Centered content"
+	},
+	"Floats an element to the left (float: left)": {
+		"prefix": "w3-left",
+		"body": [
+			"w3-left"
+		],
+		"description": "Floats an element to the left (float: left)"
+	},
+	"Floats an element to the right (float: right)": {
+		"prefix": "w3-right",
+		"body": [
+			"w3-right"
+		],
+		"description": "Floats an element to the right (float: right)"
+	},
+	"Left aligned text": {
+		"prefix": "w3-left-align",
+		"body": [
+			"w3-left-align"
+		],
+		"description": "Left aligned text"
+	},
+	"Right aligned text": {
+		"prefix": "w3-right-align",
+		"body": [
+			"w3-right-align"
+		],
+		"description": "Right aligned text"
+	},
+	"Right and left aligned text": {
+		"prefix": "w3-justify",
+		"body": [
+			"w3-justify"
+		],
+		"description": "Right aligned text"
+	},
+	"Circled content": {
+		"prefix": "w3-circle",
+		"body": [
+			"w3-circle"
+		],
+		"description": "Circled content"
+	},
+	"Hidden content (display:none)": {
+		"prefix": "w3-hide",
+		"body": [
+			"w3-hide"
+		],
+		"description": "Hidden content (display:none)"
+	},
+	"Show content (display:block)": {
+		"prefix": "w3-show",
+		"body": [
+			"w3-show"
+		],
+		"description": "Show content (display:block)"
+	},
+	"Alias of w3-show (display:block)": {
+		"prefix": "w3-show-block",
+		"body": [
+			"w3-show-block"
+		],
+		"description": "Alias of w3-show (display:block)"
+	},
+	"Show content as inline-block (display:inline-block)": {
+		"prefix": "w3-show-inline-block",
+		"body": [
+			"w3-show-inline-block"
+		],
+		"description": "Show content as inline-block (display:inline-block)"
+	},
+	"Fixed content at the top of a page": {
+		"prefix": "w3-top",
+		"body": [
+			"w3-top"
+		],
+		"description": "Fixed content at the top of a page"
+	},
+	"Fixed content at the bottom of a page": {
+		"prefix": "w3-bottom",
+		"body": [
+			"w3-bottom"
+		],
+		"description": "Fixed content at the bottom of a page"
+	},
+	"Container for w3-display-classes (position: relative)": {
+		"prefix": "w3-display-container",
+		"body": [
+			"w3-display-container"
+		],
+		"description": "Container for w3-display-classes (position: relative)"
+	},
+	"Displays content at the top left corner of the w3-display-container": {
+		"prefix": "w3-display-topleft",
+		"body": [
+			"w3-display-topleft"
+		],
+		"description": "Displays content at the top left corner of the w3-display-container"
+	},
+	"Displays content at the top right corner of the w3-display-container": {
+		"prefix": "w3-display-topright",
+		"body": [
+			"w3-display-topright"
+		],
+		"description": "Displays content at the top right corner of the w3-display-container"
+	},
+	"Displays content at the bottom left corner of the w3-display-container": {
+		"prefix": "w3-display-bottomleft",
+		"body": [
+			"w3-display-bottomleft"
+		],
+		"description": "Displays content at the bottom left corner of the w3-display-container"
+	},
+	"Displays content at the bottom right corner of the w3-display-container": {
+		"prefix": "w3-display-bottomright",
+		"body": [
+			"w3-display-bottomright"
+		],
+		"description": "Displays content at the bottom right corner of the w3-display-container"
+	},
+	"Displays content to the left (middle left) of the w3-display-container": {
+		"prefix": "w3-display-left",
+		"body": [
+			"w3-display-left"
+		],
+		"description": "Displays content to the left (middle left) of the w3-display-container"
+	},
+	"Displays content to the right (middle right) of the w3-display-container": {
+		"prefix": "w3-display-right",
+		"body": [
+			"w3-display-right"
+		],
+		"description": "Displays content to the right (middle right) of the w3-display-container"
+	},
+	"Displays content in the middle (center) of the w3-display-container": {
+		"prefix": "w3-display-middle",
+		"body": [
+			"w3-display-middle"
+		],
+		"description": "Displays content in the middle (center) of the w3-display-container"
+	},
+	"Displays content at the top middle of the w3-display-container": {
+		"prefix": "w3-display-topmiddle",
+		"body": [
+			"w3-display-topmiddle"
+		],
+		"description": "Displays content at the top middle of the w3-display-container"
+	},
+	"Displays content at the bottom middle of the w3-display-container": {
+		"prefix": "w3-display-bottommiddle",
+		"body": [
+			"w3-display-bottommiddle"
+		],
+		"description": "Displays content at the bottom middle of the w3-display-container"
+	},
+	"Displays content at a specified position in the w3-display-container": {
+		"prefix": "w3-display-position",
+		"body": [
+			"w3-display-position"
+		],
+		"description": "Displays content at a specified position in the w3-display-container"
+	},
+	"Displays content on hover inside the w3-display-container": {
+		"prefix": "w3-display-hover",
+		"body": [
+			"w3-display-hover"
+		],
+		"description": "Displays content on hover inside the w3-display-container"
+	},
+	"Adds opacity/transparency to an element (opacity: 0.6)": {
+		"prefix": "w3-opacity",
+		"body": [
+			"w3-opacity"
+		],
+		"description": "Adds opacity/transparency to an element (opacity: 0.6)"
+	},
+	"Turns off opacity/transparency (opacity: 1)": {
+		"prefix": "w3-opacity-off",
+		"body": [
+			"w3-opacity-off"
+		],
+		"description": "Turns off opacity/transparency (opacity: 1)"
+	},
+	"Adds opacity/transparency to an element (opacity: 0.75)": {
+		"prefix": "w3-opacity-min",
+		"body": [
+			"w3-opacity-min"
+		],
+		"description": "Adds opacity/transparency to an element (opacity: 0.75)"
+	},
+	"Adds opacity/transparency to an element (opacity: 0.25)": {
+		"prefix": "w3-opacity-max",
+		"body": [
+			"w3-opacity-max"
+		],
+		"description": "Adds opacity/transparency to an element (opacity: 0.25)"
+	},
+	"Adds a grayscale effect to an element (grayscale: 50%)": {
+		"prefix": "w3-grayscale-min",
+		"body": [
+			"w3-grayscale-min"
+		],
+		"description": "Adds a grayscale effect to an element (grayscale: 50%)"
+	},
+	"Adds a grayscale effect to an element (grayscale: 75%)": {
+		"prefix": "w3-grayscale",
+		"body": [
+			"w3-grayscale"
+		],
+		"description": "Adds a grayscale effect to an element (grayscale: 75%)"
+	},
+	"Adds a grayscale effect to an element (grayscale: 100%)": {
+		"prefix": "w3-grayscale-max",
+		"body": [
+			"w3-grayscale-max"
+		],
+		"description": "Adds a grayscale effect to an element (grayscale: 100%)"
+	},
+	"Adds a sepia effect to an element (sepia: 50%)": {
+		"prefix": "w3-sepia-min",
+		"body": [
+			"w3-sepia-min"
+		],
+		"description": "Adds a sepia effect to an element (sepia: 50%)"
+	},
+	"Adds a sepia effect to an element (sepia: 75%)": {
+		"prefix": "w3-sepia",
+		"body": [
+			"w3-sepia"
+		],
+		"description": "Adds a sepia effect to an element (sepia: 75%)"
+	},
+	"Adds a sepia effect to an element (sepia: 100%)": {
+		"prefix": "w3-sepia-max",
+		"body": [
+			"w3-sepia-max"
+		],
+		"description": "Adds a sepia effect to an element (sepia: 100%)"
+	},
+	"Creates an overlay effect": {
+		"prefix": "w3-overlay",
+		"body": [
+			"w3-overlay"
+		],
+		"description": "Creates an overlay effect"
+	},
+	"Hover color white": {
+		"prefix": "w3-hover-white",
+		"body": [
+			"w3-hover-white"
+		],
+		"description": "Hover color white"
+	},
+	"Hover color black": {
+		"prefix": "w3-hover-black",
+		"body": [
+			"w3-hover-black"
+		],
+		"description": "Hover color black"
+	},
+	"Hover color red": {
+		"prefix": "w3-hover-red",
+		"body": [
+			"w3-hover-red"
+		],
+		"description": "Hover color red"
+	},
+	"Hover color blue": {
+		"prefix": "w3-hover-blue",
+		"body": [
+			"w3-hover-blue"
+		],
+		"description": "Hover color blue"
+	},
+	"Hover color green": {
+		"prefix": "w3-hover-green",
+		"body": [
+			"w3-hover-green"
+		],
+		"description": "Hover color green"
+	},
+	"Hover color aqua": {
+		"prefix": "w3-hover-aqua",
+		"body": [
+			"w3-hover-aqua"
+		],
+		"description": "Hover color aqua"
+	},
+	"Hover color orange": {
+		"prefix": "w3-hover-orange",
+		"body": [
+			"w3-hover-orange"
+		],
+		"description": "Hover color orange"
+	},
+	"Hover color grey": {
+		"prefix": "w3-hover-grey",
+		"body": [
+			"w3-hover-grey"
+		],
+		"description": "Hover color grey"
+	},
+	"Hover color pale green": {
+		"prefix": "w3-hover-pale-green",
+		"body": [
+			"w3-hover-pale-green"
+		],
+		"description": "Hover color pale green"
+	},
+	"Text color red": {
+		"prefix": "w3-text-red",
+		"body": [
+			"w3-text-red"
+		],
+		"description": "Text color red"
+	},
+	"Text color green": {
+		"prefix": "w3-text-green",
+		"body": [
+			"w3-text-green"
+		],
+		"description": "Text color green"
+	},
+	"Text color blue": {
+		"prefix": "w3-text-blue",
+		"body": [
+			"w3-text-blue"
+		],
+		"description": "Text color blue"
+	},
+	"Text color yellow": {
+		"prefix": "w3-text-yellow",
+		"body": [
+			"w3-text-yellow"
+		],
+		"description": "Text color yellow"
+	},
+	"Text color grey": {
+		"prefix": "w3-text-grey",
+		"body": [
+			"w3-text-grey"
+		],
+		"description": "Text color grey"
+	},
+	"Text color dark grey": {
+		"prefix": "w3-text-dark-grey",
+		"body": [
+			"w3-text-dark-grey"
+		],
+		"description": "Text color dark grey"
+	},
+	"Text color black": {
+		"prefix": "w3-text-black",
+		"body": [
+			"w3-text-black"
+		],
+		"description": "Text color black"
+	},
+	"Text color white": {
+		"prefix": "w3-text-white",
+		"body": [
+			"w3-text-white"
+		],
+		"description": "Text color white"
+	},
+	"Text color pink": {
+		"prefix": "w3-text-pink",
+		"body": [
+			"w3-text-pink"
+		],
+		"description": "Text color pink"
+	},
+	"Text color purple": {
+		"prefix": "w3-text-purple",
+		"body": [
+			"w3-text-purple"
+		],
+		"description": "Text color purple"
+	},
+	"Text color teal": {
+		"prefix": "w3-text-teal",
+		"body": [
+			"w3-text-teal"
+		],
+		"description": "Text color teal"
+	},
+	"Text color light green": {
+		"prefix": "w3-text-light-green",
+		"body": [
+			"w3-text-light-green"
+		],
+		"description": "Text color light green"
+	},
+	"Text color lime": {
+		"prefix": "w3-text-lime",
+		"body": [
+			"w3-text-lime"
+		],
+		"description": "Text color lime"
+	},
+	"Text color deep purple": {
+		"prefix": "w3-text-deep-purple",
+		"body": [
+			"w3-text-deep-purple"
+		],
+		"description": "Text color deep purple"
+	},
+	"Text color indigo": {
+		"prefix": "w3-text-indigo",
+		"body": [
+			"w3-text-indigo"
+		],
+		"description": "Text color indigo"
+	},
+	"Text color light blue": {
+		"prefix": "w3-text-light-blue",
+		"body": [
+			"w3-text-light-blue"
+		],
+		"description": "Text color light blue"
+	},
+	"Text color blue grey": {
+		"prefix": "w3-text-blue-grey",
+		"body": [
+			"w3-text-blue-grey"
+		],
+		"description": "Text color blue grey"
+	},
+	"Text color cyan": {
+		"prefix": "w3-text-cyan",
+		"body": [
+			"w3-text-cyan"
+		],
+		"description": "Text color cyan"
+	},
+	"Text color aqua": {
+		"prefix": "w3-text-aqua",
+		"body": [
+			"w3-text-aqua"
+		],
+		"description": "Text color aqua"
+	},
+	"Text color amber": {
+		"prefix": "w3-text-amber",
+		"body": [
+			"w3-text-amber"
+		],
+		"description": "Text color amber"
+	},
+	"Text color orange": {
+		"prefix": "w3-text-orange",
+		"body": [
+			"w3-text-orange"
+		],
+		"description": "Text color orange"
+	},
+	"Text color deep orange": {
+		"prefix": "w3-text-deep-orange",
+		"body": [
+			"w3-text-deep-orange"
+		],
+		"description": "Text color deep orange"
+	},
+	"Text color sand": {
+		"prefix": "w3-text-sand",
+		"body": [
+			"w3-text-sand"
+		],
+		"description": "Text color sand"
+	},
+	"Text color khaki": {
+		"prefix": "w3-text-khaki",
+		"body": [
+			"w3-text-khaki"
+		],
+		"description": "Text color khaki"
+	},
+	"Text color brown": {
+		"prefix": "w3-text-brown",
+		"body": [
+			"w3-text-brown"
+		],
+		"description": "Text color brown"
+	},
+	"Hover text color red": {
+		"prefix": "w3-hover-text-red",
+		"body": [
+			"w3-hover-text-red"
+		],
+		"description": "Hover text color red"
+	},
+	"Hover text color green": {
+		"prefix": "w3-hover-text-green",
+		"body": [
+			"w3-hover-text-green"
+		],
+		"description": "Hover text color green"
+	},
+	"Hover text color blue": {
+		"prefix": "w3-hover-text-blue",
+		"body": [
+			"w3-hover-text-blue"
+		],
+		"description": "Hover text color blue"
+	},
+	"Hover text color yellow": {
+		"prefix": "w3-hover-text-yellow",
+		"body": [
+			"w3-hover-text-yellow"
+		],
+		"description": "Hover text color yellow"
+	},
+	"Adds transparency to an element on hover (opacity: 0.6)": {
+		"prefix": "w3-hover-opacity",
+		"body": [
+			"w3-hover-opacity"
+		],
+		"description": "Adds transparency to an element on hover (opacity: 0.6)"
+	},
+	"Removes transparency from an element on hover (100% opacity)": {
+		"prefix": "w3-hover-opacity-off",
+		"body": [
+			"w3-hover-opacity-off"
+		],
+		"description": "Removes transparency from an element on hover (100% opacity)"
+	},
+	"Adds shadow to an element on hover": {
+		"prefix": "w3-hover-shadow",
+		"body": [
+			"w3-hover-shadow"
+		],
+		"description": "Adds shadow to an element on hover"
+	},
+	"Adds a black and white (100% grayscale) effect to an element": {
+		"prefix": "w3-hover-grayscale",
+		"body": [
+			"w3-hover-grayscale"
+		],
+		"description": "Adds a black and white (100% grayscale) effect to an element"
+	},
+	"Adds a sepia effect to an element on hover": {
+		"prefix": "w3-hover-sepia",
+		"body": [
+			"w3-hover-sepia"
+		],
+		"description": "Adds a sepia effect to an element on hover"
+	},
+	"Removes hover effects from an element": {
+		"prefix": "w3-hover-none",
+		"body": [
+			"w3-hover-none"
+		],
+		"description": "Removes hover effects from an element"
+	},
+	"Element rounded (border-radius) 4px": {
+		"prefix": "w3-round",
+		"body": [
+			"w3-round"
+		],
+		"description": "Element rounded (border-radius) 4px"
+	},
+	"Element rounded (border-radius) 2px": {
+		"prefix": "w3-round-small",
+		"body": [
+			"w3-round-small"
+		],
+		"description": "Element rounded (border-radius) 2px"
+	},
+	"Element rounded (border-radius) 4px 'medium'": {
+		"prefix": "w3-round-medium",
+		"body": [
+			"w3-round-medium"
+		],
+		"description": "Element rounded (border-radius) 4px"
+	},
+	"Element rounded (border-radius) 8px": {
+		"prefix": "w3-round-large",
+		"body": [
+			"w3-round-large"
+		],
+		"description": "Element rounded (border-radius) 8px"
+	},
+	"Element rounded (border-radius) 16px": {
+		"prefix": "w3-round-xlarge",
+		"body": [
+			"w3-round-xlarge"
+		],
+		"description": "Element rounded (border-radius) 16px"
+	},
+	"Element rounded (border-radius) 32px": {
+		"prefix": "w3-round-xxlarge",
+		"body": [
+			"w3-round-xxlarge"
+		],
+		"description": "Element rounded (border-radius) 32px"
+	},
+	"Padding 4px top and bottom, and 8px left and right.": {
+		"prefix": "w3-padding-small",
+		"body": [
+			"w3-padding-small"
+		],
+		"description": "Padding 4px top and bottom, and 8px left and right."
+	},
+	"Padding 8px top and bottom, and 16px left and right.": {
+		"prefix": "w3-padding",
+		"body": [
+			"w3-padding"
+		],
+		"description": "Padding 8px top and bottom, and 16px left and right."
+	},
+	"Padding 12px top and bottom, and 24px left and right.": {
+		"prefix": "w3-padding-large",
+		"body": [
+			"w3-padding-large"
+		],
+		"description": "Padding 12px top and bottom, and 24px left and right."
+	},
+	"Padding 16px top and bottom": {
+		"prefix": "w3-padding-16",
+		"body": [
+			"w3-padding-16"
+		],
+		"description": "Padding 16px top and bottom"
+	},
+	"Padding 24px top and bottom": {
+		"prefix": "w3-padding-24",
+		"body": [
+			"w3-padding-24"
+		],
+		"description": "Padding 24px top and bottom"
+	},
+	"Padding 32px top and bottom": {
+		"prefix": "w3-padding-32",
+		"body": [
+			"w3-padding-32"
+		],
+		"description": "Padding 32px top and bottom"
+	},
+	"Padding 48px top and bottom": {
+		"prefix": "w3-padding-48",
+		"body": [
+			"w3-padding-48"
+		],
+		"description": "Padding 48px top and bottom"
+	},
+	"Padding 64px top and bottom": {
+		"prefix": "w3-padding-64",
+		"body": [
+			"w3-padding-64"
+		],
+		"description": "Padding 64px top and bottom"
+	},
+	"Padding 64px on top": {
+		"prefix": "w3-padding-top-64",
+		"body": [
+			"w3-padding-top-64"
+		],
+		"description": "Padding 64px on top"
+	},
+	"Padding 48px on top": {
+		"prefix": "w3-padding-top-48",
+		"body": [
+			"w3-padding-top-48"
+		],
+		"description": "Padding 48px on top"
+	},
+	"Padding 32px on top": {
+		"prefix": "w3-padding-top-32",
+		"body": [
+			"w3-padding-top-32"
+		],
+		"description": "Padding 32px on top"
+	},
+	"Padding 24px on top": {
+		"prefix": "w3-padding-top-24",
+		"body": [
+			"w3-padding-top-24"
+		],
+		"description": "Padding 24px on top"
+	},
+	"Adds an 16px margin to an element": {
+		"prefix": "w3-margin",
+		"body": [
+			"w3-margin"
+		],
+		"description": "Adds an 16px margin to an element"
+	},
+	"Adds an 16px top margin to an element": {
+		"prefix": "w3-margin-top",
+		"body": [
+			"w3-margin-top"
+		],
+		"description": "Adds an 16px top margin to an element"
+	},
+	"Adds an 16px right margin to an element": {
+		"prefix": "w3-margin-right",
+		"body": [
+			"w3-margin-right"
+		],
+		"description": "Adds an 16px right margin to an element"
+	},
+	"Adds an 16px bottom margin to an element": {
+		"prefix": "w3-margin-bottom",
+		"body": [
+			"w3-margin-bottom"
+		],
+		"description": "Adds an 16px bottom margin to an element"
+	},
+	"Adds an 16px left margin to an element": {
+		"prefix": "w3-margin-left",
+		"body": [
+			"w3-margin-left"
+		],
+		"description": "Adds an 16px left margin to an element"
+	},
+	"Adds an 16px top and bottom margin to an element": {
+		"prefix": "w3-section",
+		"body": [
+			"w3-section"
+		],
+		"description": "Adds an 16px top and bottom margin to an element"
+	},
+	"Borders (top, right, bottom, left)": {
+		"prefix": "w3-border",
+		"body": [
+			"w3-border"
+		],
+		"description": "Borders (top, right, bottom, left)"
+	},
+	"Border top": {
+		"prefix": "w3-border-top",
+		"body": [
+			"w3-border-top"
+		],
+		"description": "Border top"
+	},
+	"Border right": {
+		"prefix": "w3-border-right",
+		"body": [
+			"w3-border-right"
+		],
+		"description": "Border right"
+	},
+	"Border bottom": {
+		"prefix": "w3-border-bottom",
+		"body": [
+			"w3-border-bottom"
+		],
+		"description": "Border bottom"
+	},
+	"Border left": {
+		"prefix": "w3-border-left",
+		"body": [
+			"w3-border-left"
+		],
+		"description": "Border left"
+	},
+	"Removes all borders": {
+		"prefix": "w3-border-0",
+		"body": [
+			"w3-border-0"
+		],
+		"description": "Removes all borders"
+	},
+	"Displays any defined borders in a specified color (like red, etc)": {
+		"prefix": "w3-border-color",
+		"body": [
+			"w3-border-"
+		],
+		"description": "Displays any defined borders in a specified color (like red, etc)"
+	},
+	"Adds a thick bottom border (bar) to an element": {
+		"prefix": "w3-bottombar",
+		"body": [
+			"w3-bottombar"
+		],
+		"description": "Adds a thick bottom border (bar) to an element"
+	},
+	"Adds a thick left border (bar) to an element": {
+		"prefix": "w3-leftbar",
+		"body": [
+			"w3-leftbar"
+		],
+		"description": "Adds a thick left border (bar) to an element"
+	},
+	"Adds a thick right border (bar) to an element": {
+		"prefix": "w3-rightbar",
+		"body": [
+			"w3-rightbar"
+		],
+		"description": "Adds a thick right border (bar) to an element"
+	},
+	"Adds a thick top border (bar) to an element": {
+		"prefix": "w3-topbar",
+		"body": [
+			"w3-topbar"
+		],
+		"description": "Adds a thick top border (bar) to an element"
+	},
+	"Hoverable border color": {
+		"prefix": "w3-hover-border-color",
+		"body": [
+			"w3-hover-border-"
+		],
+		"description": "Hoverable border color"
+	}
+}

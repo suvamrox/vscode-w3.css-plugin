@@ -1633,5 +1633,99 @@
 			"w3-hover-border-"
 		],
 		"description": "Hoverable border color"
-	}
+	},
+	"w3.css cdn": {
+		"prefix": "w3cdn",
+		"body": [
+			"<link rel='stylesheet' href='https://www.w3schools.com/w3css/4/w3.css'>"
+		],
+		"description": "To use W3.CSS in your web site, just add a link to 'w3.css' from your web pages"
+	},
+	"w3s-html": {
+		"prefix": "w3s-html",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"<title>W3.CSS${1}</title>",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"<link rel=\"stylesheet\" href=\"https://www.w3schools.com/w3css/4/w3.css\">",
+			"<body>",
+			"\t<div class=\"w3-container w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">",
+			"\t\t<h1>My Car${3}</h1>",
+			"\t</div>",
+			"\t<div class=\"w3-container w3-${4|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">",
+			"\t\t<p>A car is a wheeled, self-powered motor vehicle used for transportation.${5}</p>",
+			"\t</div>",
+
+			"\t<div class=\"w3-container w3-${6|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">",
+			"\t\t<p>My footer information${7}</p>",
+			"\t</div>",
+
+			"</body>",
+			"</html>"
+		],
+		"description": "To use W3.CSS in your web site, just add a link to 'w3.css' from your web pages"
+	},
+	"w3s-card": {
+		"prefix": "w3s-card",
+		"body": [
+			"<div class=\"${1|w3-card,w3-card-2,w3-card-4|}\">",
+			"\t<header class=\"w3-container w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">",
+			"\t\t<h1>${3}</h1>",
+			"\t</header>",
+			"\t<div class=\"w3-container\">",
+			"\t\t<p>${4}</p>",
+			"\t</div>",
+			"\t<footer class=\"w3-container w3-${5|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">",
+			"\t\t<h5>${5}</h5>",
+			"\t</footer>",
+			"</div>"
+		]
+	},
+	"w3s-card-img": {
+		"prefix": "w3s-card-img",
+		"body": [
+			"\t<div class=\"${1|w3-card,w3-card-2,w3-card-4|}\" style=\"${2}\">",
+			"\t<img src=\"${3}\" alt=\"${4}\" style=\"${5}\">",
+			"\t<div class=\"w3-container w3-center\">",
+			"\t<p>${6}</p>",
+			"\t</div>",
+			"</div>"
+		]
+	},
+	"w3s-btn": {
+		"prefix": "w3s-btn",
+		"body": [
+			"<button class=\"w3-button ${1|w3-block,w3-circle|} w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${3|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo}\">${4}</button>"
+		]
+	},
+	"w3s-btn-round": {
+		"prefix": "w3s-btn-round",
+		"body": [
+			"<button class=\"w3-button ${1|w3-round,w3-round-small,w3-round-large,w3-round-xlarge,w3-round-xxlarge|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo} w3-${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
+		]
+	},
+	"w3s-btn-full": {
+		"prefix": "w3s-btn-full",
+		"body": [
+			"<button class=\"w3-button w3-block w3-${1|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo}\">${3}</button>"
+		]
+	},
+	"w3s-btn-group": {
+		"prefix": "w3s-btn-group",
+		"body": [
+			"<div class=\"w3-bar\">",
+			"\t<button class=\"w3-bar-item w3-button w3-${1|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${2}</button>",
+			"\t<button class=\"w3-bar-item w3-button w3-${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${4}</button>",
+			"\t<button class=\"w3-bar-item w3-button w3-${5|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${6}</button>",
+			"</div>"
+		]
+	},
+	"w3s-btn-circular": {
+		"prefix": "w3s-btn-circular",
+		"body": [
+			"<button class=\"w3-button w3-${1|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo} w3-circle w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
+		]
+	},
+
 }

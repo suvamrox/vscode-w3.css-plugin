@@ -1634,8 +1634,8 @@
 		],
 		"description": "Hoverable border color"
 	},
-	"w3.css cdn": {
-		"prefix": "w3cdn",
+	"w3s-cdn": {
+		"prefix": "w3s-cdn",
 		"body": [
 			"<link rel='stylesheet' href='https://www.w3schools.com/w3css/4/w3.css'>"
 		],

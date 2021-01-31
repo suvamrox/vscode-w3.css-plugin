@@ -1,8 +1,8 @@
 {
     "name": "w3css",
     "displayName": "w3css",
-    "description": "",
-    "version": "0.0.1",
+    "description": "Light and Fast ",
+    "version": "0.0.2",
     "icon": "icon/w3css.jpg",
     "engines": {
         "vscode": "^1.52.0"

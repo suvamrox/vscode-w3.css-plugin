@@ -5,7 +5,7 @@ The w3css extension adds w3.css support for HTML to Visual Studio Code.
 ![Preview](https://github.com/suvamrox/vscode-w3.css-plugin/blob/master/image/preview.gif)
 ## Usage
 To use the w3.css snippets, open a HTML file, and start typing w3-, followed by pressing Ctrl+Space.<br>
-For quick generate snippets start typing w3-s-,followed by pressing Ctrl+Space.
+For quick generate snippets start typing w3s-,followed by pressing Ctrl+Space.
 
 # w3.css CDN
 type w3s-cdn,followed by pressing Enter for import w3.css CDN 
@@ -16,7 +16,7 @@ type w3s-cdn,followed by pressing Enter for import w3.css CDN
 
 # What next?
 ```bash
-stay tuned 🎃 more features are upcoming .
+Stay tuned 🎃. More features are upcoming .
 ```
 # Bug!! 👾 
 ```bash
@@ -25,8 +25,9 @@ Email me => suvam2603@gmail.com
  Github => issue
 ```
 
-# W3.CSS Reference 
-#Container Classes
+# W3.CSS Reference =>
+
+# Container Classes
 Class | Defines
 ------------ | -------------
 w3-container |	HTML container with 16px left and right padding	

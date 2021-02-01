@@ -1,7 +1,7 @@
 {
     "name": "w3css",
-    "displayName": "w3css",
-    "description": "Light and Fast ",
+    "displayName": "w3.css autocomplete",
+    "description": "w3.css class name completion for the HTML class attribute. Light and Fast ",
     "version": "0.0.2",
     "icon": "icon/w3css.jpg",
     "engines": {
